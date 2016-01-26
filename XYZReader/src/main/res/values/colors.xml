@@ -18,9 +18,14 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="deep_orange_300">#FF8A65</color>
+    <color name="deep_orange_400">#FF7043</color>
     <color name="deep_orange_500">#FF5722</color>
     <color name="deep_orange_700">#E64A19</color>
     <color name="teal_a400">#1DE9B6</color>
+
+    <color name="colorPrimary">@color/deep_orange_500</color>
+    <color name="colorPrimaryDark">@color/deep_orange_700</color>
+    <color name="colorPrimaryLight">@color/deep_orange_400</color>
+    <color name="colorAccent">@color/teal_a400</color>
 
 </resources>
